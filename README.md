@@ -11,7 +11,7 @@ Features:
 * Checks for Encrypted Volumes w/ Magnet Forensics Encrypted Disk Detector
 * Collects BitLocker Recovery Key
 * Checks for installed Endpoint Security Tools (AntiVirus and EDR)
-* Enumerates all neccessary information from the target host to enrich your DFIR workflows
+* Enumerates all neccessary information from the target host to enrich your DFIR workflow
 * Creates a password-protected Secure Archive Container (PW: IncidentResponse)
 
 ## First Public Release    
