@@ -1,7 +1,7 @@
 # Collect-MemoryDump
 Collect-MemoryDump - Automated Creation of Windows Memory Snapshots for DFIR
 
-Collect-MemoryDump.ps1 is script utilized to collect a Memory Snapshot from a live Windows system (in a forensically sound manner).
+Collect-MemoryDump.ps1 is PowerShell script utilized to collect a Memory Snapshot from a live Windows system (in a forensically sound manner).
 
 Features:
 * Checks for Hostname and Physical Memory Size before starting memory acquisition
