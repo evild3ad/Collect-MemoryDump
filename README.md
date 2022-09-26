@@ -23,6 +23,37 @@ https://www.magnetforensics.com/
 ## Download  
 Download the latest version of **Collect-MemoryDump** from the [Releases](https://github.com/evild3ad/Collect-MemoryDump/releases/latest) section.  
 
+> Note: Collect-MemoryDump does not include all external tools by default.  
+
+You have to download following dependencies:  
+* [Belkasoft Live RAM Capturer](https://belkasoft.com/ram-capturer)
+* [Comae-Toolkit](https://www.magnetforensics.com/blog/how-to-get-started-with-comae/)
+* [MAGNET Encrypted Disk Detector](https://www.magnetforensics.com/resources/encrypted-disk-detector/)
+* [MAGNET Ram Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/)
+
+Copy the required files to following file locations:
+
+**Belkasoft Live RAM Capturer**  
+`$SCRIPT_DIR\Tools\RamCapturer\x64\msvcp110.dll`  
+`$SCRIPT_DIR\Tools\RamCapturer\x64\msvcr110.dll`  
+`$SCRIPT_DIR\Tools\RamCapturer\x64\RamCapture64.exe`  
+`$SCRIPT_DIR\Tools\RamCapturer\x64\RamCaptureDriver64.sys`  
+`$SCRIPT_DIR\Tools\RamCapturer\x86\msvcp110.dll`  
+`$SCRIPT_DIR\Tools\RamCapturer\x86\msvcr110.dll`  
+`$SCRIPT_DIR\Tools\RamCapturer\x86\RamCapture.exe`  
+`$SCRIPT_DIR\Tools\RamCapturer\x86\RamCaptureDriver.sys`  
+  
+**Comae-Toolkit**  
+`$SCRIPT_DIR\Tools\DumpIt\ARM64\DumpIt.exe`  
+`$SCRIPT_DIR\Tools\DumpIt\x64\DumpIt.exe`  
+`$SCRIPT_DIR\Tools\DumpIt\x86\DumpIt.exe`  
+  
+**MAGNET Encrypted Disk Detector**  
+`$SCRIPT_DIR\Tools\EDD\EDDv310.exe`  
+
+**MAGNET Ram Capture**  
+`$SCRIPT_DIR\Tools\MRC\MRCv120.exe`  
+
 ## Usage  
 .\Collect-MemoryDump.ps1 [-Tool] [--Pagefile]
 
@@ -91,8 +122,7 @@ https://belkasoft.com/ram-capturer
 
 DumpIt 3.5.0 (2022-08-02) &#8594; Comae-Toolkit  
 https://magnetidealab.com/  
-https://beta.comae.tech/  
-https://www.magnetforensics.com/blog/how-to-get-started-with-comae/  
+https://beta.comae.tech/   
 
 CyLR 3.0 (2021-02-03)  
 https://github.com/orlikoski/CyLR  
