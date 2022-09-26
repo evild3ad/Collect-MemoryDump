@@ -8,7 +8,7 @@ Features:
 * Checks if you have enough free disk space to save memory dump file
 * Collects a Raw Physical Memory Dump w/ DumpIt, Magnet RamCapture, Belkasoft Live RAM Capturer and WinPMEM
 * Collects a Microsoft Crash Dump w/ DumpIt for Comae Beta from Magnet Idea Lab
-* Pagefile Collection w/ [CyLR](https://github.com/orlikoski/CyLR) - Live Response Collection tool by Alan Orlikoski and Jason Yegge
+* Pagefile Collection w/ CyLR - Live Response Collection tool by Alan Orlikoski and Jason Yegge
 * Checks for Encrypted Volumes w/ Magnet Forensics Encrypted Disk Detector
 * Collects BitLocker Recovery Key
 * Checks for installed Endpoint Security Tools (AntiVirus and EDR)
