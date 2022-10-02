@@ -6,7 +6,7 @@ Collect-MemoryDump.ps1 is PowerShell script utilized to collect a Memory Snapsho
 Features:
 * Checks for Hostname and Physical Memory Size before starting memory acquisition
 * Checks if you have enough free disk space to save memory dump file
-* Collects a Raw Physical Memory Dump w/ DumpIt, Magnet RamCapture, Belkasoft Live RAM Capturer and WinPMEM
+* Collects a Raw Physical Memory Dump w/ DumpIt, Magnet Ram Capture, Belkasoft Live RAM Capturer and WinPMEM
 * Collects a Microsoft Crash Dump w/ DumpIt for Comae Beta from Magnet Idea Lab
 * Pagefile Collection w/ CyLR - Live Response Collection tool by Alan Orlikoski and Jason Yegge
 * Checks for Encrypted Volumes w/ Magnet Forensics Encrypted Disk Detector
