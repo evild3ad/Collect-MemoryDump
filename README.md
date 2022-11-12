@@ -54,6 +54,8 @@ Copy the required files to following file locations:
 **MAGNET Ram Capture**  
 `$SCRIPT_DIR\Tools\MRC\MRCv120.exe`  
 
+Check out: [Wiki: How-to-add-or-update-dependencies](https://github.com/evild3ad/Collect-MemoryDump/wiki/How-to-add-or-update-dependencies)
+
 ## Usage  
 .\Collect-MemoryDump.ps1 [-Tool] [--Pagefile]
 
