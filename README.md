@@ -120,7 +120,7 @@ https://www.7-zip.org/download.html
 Belkasoft Live RAM Capturer (2018-10-22)  
 https://belkasoft.com/ram-capturer  
 
-DumpIt 3.5.0 (2022-08-02) &#8594; Comae-Toolkit  
+DumpIt 3.6.20220824 (2022-08-24) &#8594; Comae-Toolkit  
 https://magnetidealab.com/  
 https://beta.comae.tech/   
 
