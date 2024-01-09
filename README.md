@@ -86,61 +86,61 @@ https://www.microsoft.com/en-us/download/details.aspx?id=17718
 > [!IMPORTANT]  
 > MAGNET DumpIt for Windows does NOT support Windows 7 target systems. Please use any of the other memory acquisition tools when dealing with Windows 7. 
   
-![Help-Message](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/01.png)  
+![Help-Message](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/01.png)  
 **Fig 1:** Help Message  
 
-![AvailableSpace](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/02.png)  
+![AvailableSpace](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/02.png)  
 **Fig 2:** Check Available Space
 
-![DumpIt - Microsoft Crash Dump](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/03.png)  
+![DumpIt - Microsoft Crash Dump](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/03.png)  
 **Fig 3:** Automated Creation of Windows Memory Snapshot w/ MAGNET DumpIt for Windows (incl. Pagefile)
 
-![DumpIt - Raw Physical Memory Dump](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/04.png)  
+![DumpIt - Raw Physical Memory Dump](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/04.png)  
 **Fig 4:** Automated Creation of Windows Memory Snapshot w/ MAGNET DumpIt for Windows (incl. Pagefile)
 
-![WinPMEM](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/05.png)  
+![WinPMEM](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/05.png)  
 **Fig 5:** Automated Creation of Windows Memory Snapshot w/ WinPMEM (incl. Pagefile)
 
-![Belkasoft](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/06.png)  
+![Belkasoft](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/06.png)  
 **Fig 6:** Automated Creation of Windows Memory Snapshot w/ Belkasoft Live RAM Capturer (incl. Pagefile)
 
-![Pagefile Collection](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/07.png)  
+![Pagefile Collection](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/07.png)  
 **Fig 7:** Pagefile Collection w/ MAGNET Response
 
-![Process-Module Information](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/08.png)  
+![Process-Module Information](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/08.png)  
 **Fig 8:** Collecting Running Process/Module Information w/ MAGNET Response
 
-![MessageBox](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/09.png)  
+![MessageBox](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/09.png)  
 **Fig 9:** Message Box
 
-![MAGNET RAM Capture GUI](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/10.png)  
+![MAGNET RAM Capture GUI](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/10.png)  
 **Fig 10:** MAGNET RAM Capture
 
-![MAGNET RAM Capture](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/11.png)  
+![MAGNET RAM Capture](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/11.png)  
 **Fig 11:** Automated Creation of Windows Memory Snapshot w/ MAGNET RAM Capture
 
-![MessageBox - Memory Snapshot created successfully](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/12.png)  
+![MessageBox - Memory Snapshot created successfully](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/12.png)  
 **Fig 12:** Message Box
 
-![SecureArchive](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/13.png)  
+![SecureArchive](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/13.png)  
 **Fig 13:** Secure Archive Container (PW: IncidentResponse) and Logfile.txt
 
-![OutputDirectories](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/14.png)  
+![OutputDirectories](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/14.png)  
 **Fig 14:** Output Directories
 
-![MemoryDirectories](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/15.png)  
+![MemoryDirectories](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/15.png)  
 **Fig 15:** Memory Directories (DumpIt and Pagefile)
 
-![Memory](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/16.png)  
+![Memory](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/16.png)  
 **Fig 16:** Memory Snapshot (in a forensically sound manner)
 
-![PageFileInfo](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/17.png)  
+![PageFileInfo](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/17.png)  
 **Fig 17:** Pagefile and PageFileInfo
 
-![Pagefile Collection](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/18.png)  
+![Pagefile Collection](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/18.png)  
 **Fig 18:** Pagefile Collection (in a forensically sound manner)
 
-![SystemInfo](https://github.com/evild3ad/Collect-MemoryDump/blob/3aa95e224d0613681d5cd1baaf3e8a22da40bf68/Screenshots/19.png)  
+![SystemInfo](https://github.com/evild3ad/Collect-MemoryDump/blob/14fe3946daa65ee553050121d3a5e316236f67d3/Screenshots/19.png)  
 **Fig 19:** Collected System Information
 
 ## Dependencies  
