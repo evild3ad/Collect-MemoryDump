@@ -81,8 +81,7 @@ Example 3 - Collect Raw Physical Memory Dump
 .\Collect-MemoryDump.ps1 -WinPMEM  
 
 > [!IMPORTANT]  
-> Microsoft .NET Framework 4 (or later) must be installed on target system for MAGNET Encrypted Disk Detector and MAGNET Response.  
-Simply skip the Pagefile Collection or download and install Microsoft .NET Framework 4 (Standalone Installer) from the Microsoft download site:  
+> Microsoft .NET Framework 4 (or later) must be installed on target system for MAGNET Encrypted Disk Detector and MAGNET Response. Simply skip the Pagefile Collection or download and install Microsoft .NET Framework 4 (Standalone Installer) from the Microsoft download site:  
 https://www.microsoft.com/en-us/download/details.aspx?id=17718
 
 > [!IMPORTANT]  
